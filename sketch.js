@@ -7,6 +7,7 @@ var box1, pig1;
 var backgroundImg;
 
 //added comment
+//added another comment
 
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
